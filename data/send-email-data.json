@@ -1,0 +1,24 @@
+{
+  "name": "Test User",
+  "email": "test.user@testmail.com",
+  "phone": "1234567890123",
+  "subject": "Feature Test",
+  "message": "This is a message for testing purposes",
+
+  "veryShortName": "A",
+  "veryLongName": "Extremely Long User Name Used for Testing Purposes",
+  "wrongEmailFormat": "test.testmail.com",
+  "nonNumberPhone": "abc123abc123",
+  "veryShortPhone": "123456",
+  "veryLongPhone": "12345678901234567890123",
+
+  "subject4Char": "Abcd",
+  "subject5Char": "Abcde",
+  "subject100Char": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis pretium efficitur. Aliquam vel.",
+  "subject101Char": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis pretium efficitur. Aliquam vels.",
+
+  "message19Char": "Lorem ipsum sapien.",
+  "message20Char": "Lorem ipsum sapiens.",
+  "message2000Char": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a eleifend arcu, vel elementum ipsum. Duis quis ligula eros. Suspendisse dolor metus, tincidunt vitae ex eu, porta lobortis velit. Duis scelerisque mollis erat vel ultrices. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque at justo enim. Pellentesque hendrerit vehicula dictum. Nunc sit amet mi lorem. Phasellus metus diam, malesuada a faucibus sit amet, lobortis aliquam nisl. Curabitur nec est molestie lectus imperdiet fermentum malesuada nec neque. Suspendisse id consequat ante. Vivamus elementum vestibulum ipsum in commodo. Curabitur molestie est nulla, eget iaculis magna accumsan ac. Etiam in magna eget arcu aliquam dignissim. Duis malesuada quis mauris quis vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer vestibulum augue vel malesuada egestas. Aenean vestibulum rhoncus enim id cursus. Donec aliquet erat non hendrerit hendrerit. Suspendisse ac ornare lacus. Aliquam nec mollis ex. Suspendisse bibendum est mi, vitae sollicitudin dolor suscipit vitae. Praesent lacus ipsum, aliquet in ipsum vitae, finibus convallis dui. Nam justo elit, dapibus et commodo ut, maximus a nulla. Sed vel finibus ex, ut rutrum libero. Donec sagittis sapien a orci tincidunt placerat. Praesent eget lacus vehicula, ultrices risus non, malesuada tellus. Praesent vel augue et mauris auctor sollicitudin. Etiam sed porta tortor, a facilisis magna. Etiam nulla ex, malesuada sed hendrerit vitae, venenatis at justo. Fusce sem ligula, vulputate facilisis sapien vitae, auctor condimentum orci. In hac habitasse platea dictumst. Duis rutrum fringilla finibus. Curabitur eu augue volutpat, luctus enim in, finibus arcu. Duis risus neque, maximus id arcu ac, tristique facilisis quam. Praesent pulvinar nisl ex, aliquam hendrerit erat cursus et. In auctor accumsan mauris et vestibulum. Sed ac nunc placerat, posuere sem.",
+  "message2001Char": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a eleifend arcu, vel elementum ipsum. Duis quis ligula eros. Suspendisse dolor metus, tincidunt vitae ex eu, porta lobortis velit. Duis scelerisque mollis erat vel ultrices. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque at justo enim. Pellentesque hendrerit vehicula dictum. Nunc sit amet mi lorem. Phasellus metus diam, malesuada a faucibus sit amet, lobortis aliquam nisl. Curabitur nec est molestie lectus imperdiet fermentum malesuada nec neque. Suspendisse id consequat ante. Vivamus elementum vestibulum ipsum in commodo. Curabitur molestie est nulla, eget iaculis magna accumsan ac. Etiam in magna eget arcu aliquam dignissim. Duis malesuada quis mauris quis vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer vestibulum augue vel malesuada egestas. Aenean vestibulum rhoncus enim id cursus. Donec aliquet erat non hendrerit hendrerit. Suspendisse ac ornare lacus. Aliquam nec mollis ex. Suspendisse bibendum est mi, vitae sollicitudin dolor suscipit vitae. Praesent lacus ipsum, aliquet in ipsum vitae, finibus convallis dui. Nam justo elit, dapibus et commodo ut, maximus a nulla. Sed vel finibus ex, ut rutrum libero. Donec sagittis sapien a orci tincidunt placerat. Praesent eget lacus vehicula, ultrices risus non, malesuada tellus. Praesent vel augue et mauris auctor sollicitudin. Etiam sed porta tortor, a facilisis magna. Etiam nulla ex, malesuada sed hendrerit vitae, venenatis at justo. Fusce sem ligula, vulputate facilisis sapien vitae, auctor condimentum orci. In hac habitasse platea dictumst. Duis rutrum fringilla finibus. Curabitur eu augue volutpat, luctus enim in, finibus arcu. Duis risus neque, maximus id arcu ac, tristique facilisis quam. Praesent pulvinar nisl ex, aliquam hendrerit erat cursus et. In auctor accumsan mauris et vestibulum. Sed ac nunc placerat, posuere sems."
+}

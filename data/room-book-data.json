@@ -1,0 +1,21 @@
+{
+  "firstName": "Testing",
+  "lastName": "Users",
+  "email": "test.user@testmail.com",
+  "phone": "1234567890123",
+
+  "firstName2Char": "Ab",
+  "firstName3Char": "Abc",
+  "firstName18Char": "VeryLongFirstnames",
+  "firstName19Char": "VeryLongFirstnames2",
+
+  "lastName2Char": "Ab",
+  "lastName3Char": "Abc",
+  "lastName30Char": "Very Long LastName For Testing",
+  "lastName31Char": "Very Long LastName For Testing2",
+
+  "wrongEmailFormat": "test.testmail.com",
+  "nonNumberPhone": "abc123abc123",
+  "veryShortPhone": "123456",
+  "veryLongPhone": "12345678901234567890123"
+}
