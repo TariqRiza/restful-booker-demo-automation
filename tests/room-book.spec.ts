@@ -104,6 +104,7 @@ test("RBK-04 Verify that user can't book a room with a past date", async ({ page
   await page.waitForTimeout(1000);
   await test.step("Check result", async () => {
     await expect(page.getByRole("heading", { name: "Booking Successful!" })).toBeHidden();
+    await expect(home.roomFirstnameForm).toBeVisible();
   });
 });
 
@@ -414,6 +415,7 @@ test("RBK-19 Verify book a room with a non-numeric characters for the Phone Numb
   await page.waitForTimeout(1000);
   await test.step("Check result", async () => {
     await expect(page.getByRole("heading", { name: "Booking Successful!" })).toBeHidden();
+    await expect(home.roomPhoneForm).toBeVisible();
   });
 });
 

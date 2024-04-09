@@ -71,7 +71,7 @@ test("SND-07 Verify send an email with a very short Name", async ({ page }) => {
   await page.waitForTimeout(1000);
   await test.step("Check Result", async () => {
     await expect(page.getByRole("heading", { name: "Thanks for getting in touch" })).toBeHidden();
-    // await expect(page.getByText("Message may not be blank")).toBeVisible();
+    await expect(home.contactNameForm).toBeVisible();
   });
 });
 
@@ -81,7 +81,7 @@ test("SND-08 Verify send an email with a very long Name", async ({ page }) => {
   await page.waitForTimeout(1000);
   await test.step("Check Result", async () => {
     await expect(page.getByRole("heading", { name: "Thanks for getting in touch" })).toBeHidden();
-    // await expect(page.getByText("Message may not be blank")).toBeVisible();
+    await expect(home.contactNameForm).toBeVisible();
   });
 });
 
@@ -101,7 +101,7 @@ test("SND-10 Verify send an email with a non-numeric characters for the Phone Nu
   await page.waitForTimeout(1000);
   await test.step("Check Result", async () => {
     await expect(page.getByRole("heading", { name: "Thanks for getting in touch" })).toBeHidden();
-    // await expect(page.getByText("must be a well-formed email address")).toBeVisible();
+    await expect(home.contactPhoneForm).toBeVisible();
   });
 });
 

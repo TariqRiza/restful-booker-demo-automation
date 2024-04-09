@@ -6,7 +6,7 @@
   "message": "This is a message for testing purposes",
 
   "veryShortName": "A",
-  "veryLongName": "Extremely Long User Name Used for Testing Purposes",
+  "veryLongName": "Lorem ipsum dolor sit amet consectetur adipiscing elit Quisque lacus felise molestie sit amet sodales vitae dapibus quis enimem Mauris vitae iaculis libero Maecenas pharetra a ligula lacinia vehicula Nullam id venenatis nisi viverra finibus eratu Morbi molestie",
   "wrongEmailFormat": "test.testmail.com",
   "nonNumberPhone": "abc123abc123",
   "veryShortPhone": "123456",
